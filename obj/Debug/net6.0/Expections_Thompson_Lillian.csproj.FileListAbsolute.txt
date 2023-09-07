@@ -1,0 +1,14 @@
+C:\Users\LillianThompson\source\repos\Expections_Thompson_Lillian\bin\Debug\net6.0\Expections_Thompson_Lillian.exe
+C:\Users\LillianThompson\source\repos\Expections_Thompson_Lillian\bin\Debug\net6.0\Expections_Thompson_Lillian.deps.json
+C:\Users\LillianThompson\source\repos\Expections_Thompson_Lillian\bin\Debug\net6.0\Expections_Thompson_Lillian.runtimeconfig.json
+C:\Users\LillianThompson\source\repos\Expections_Thompson_Lillian\bin\Debug\net6.0\Expections_Thompson_Lillian.dll
+C:\Users\LillianThompson\source\repos\Expections_Thompson_Lillian\bin\Debug\net6.0\Expections_Thompson_Lillian.pdb
+C:\Users\LillianThompson\source\repos\Expections_Thompson_Lillian\obj\Debug\net6.0\Expections_Thompson_Lillian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LillianThompson\source\repos\Expections_Thompson_Lillian\obj\Debug\net6.0\Expections_Thompson_Lillian.AssemblyInfoInputs.cache
+C:\Users\LillianThompson\source\repos\Expections_Thompson_Lillian\obj\Debug\net6.0\Expections_Thompson_Lillian.AssemblyInfo.cs
+C:\Users\LillianThompson\source\repos\Expections_Thompson_Lillian\obj\Debug\net6.0\Expections_Thompson_Lillian.csproj.CoreCompileInputs.cache
+C:\Users\LillianThompson\source\repos\Expections_Thompson_Lillian\obj\Debug\net6.0\Expections_Thompson_Lillian.dll
+C:\Users\LillianThompson\source\repos\Expections_Thompson_Lillian\obj\Debug\net6.0\refint\Expections_Thompson_Lillian.dll
+C:\Users\LillianThompson\source\repos\Expections_Thompson_Lillian\obj\Debug\net6.0\Expections_Thompson_Lillian.pdb
+C:\Users\LillianThompson\source\repos\Expections_Thompson_Lillian\obj\Debug\net6.0\Expections_Thompson_Lillian.genruntimeconfig.cache
+C:\Users\LillianThompson\source\repos\Expections_Thompson_Lillian\obj\Debug\net6.0\ref\Expections_Thompson_Lillian.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Expections_Thompson_Lillian/1.0.0": {
+        "runtime": {
+          "Expections_Thompson_Lillian.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Expections_Thompson_Lillian/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
